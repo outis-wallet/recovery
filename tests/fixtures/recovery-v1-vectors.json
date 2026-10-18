@@ -1,0 +1,140 @@
+{
+  "description": "PUBLIC TEST VECTOR. Never use this phrase for funds.",
+  "phrase": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about",
+  "entropy": "00000000000000000000000000000000",
+  "root": "a7c839baaba24c5d187c27f77e1f8c96adfb136cb594e8223df0214235f0cbed",
+  "accounts": [
+    {
+      "version": 1,
+      "network": "SN_MAIN",
+      "chainId": "0x534e5f4d41494e",
+      "kind": "account",
+      "index": 0,
+      "owner": {
+        "privateKey": "0x0677224c3355bab2e1f38a5c3d02aed2dfa5760946a9725f6b72d78dfeb01ad1",
+        "publicKey": "0x06418437fd2f4196fe744c8e8f2c822a078f2b82f39a33b8d80b96112c6ae568"
+      },
+      "address": "0x00822036dbc23a2d5c41727645746740dedf1ee495dcd20bede6eba5eab3474a",
+      "deployment": {
+        "classHash": "0x00eb49f5299d144f0b2e434e483758fb6d7d8241632534d86b098047fe4e2b42",
+        "salt": "0x0",
+        "deployer": "0x0",
+        "constructorCalldata": [
+          "0x0",
+          "0x06418437fd2f4196fe744c8e8f2c822a078f2b82f39a33b8d80b96112c6ae568",
+          "0x1"
+        ]
+      },
+      "vault": {
+        "privateKey": "0x03af442e11aada5ab767248f8518512ffd83911e3540e7b48f944f3eb53221f4",
+        "publicKey": "0x071e361fe7360b27be1025a701260a0af0f9f87c6c911baa1ecd2b7e43b06750"
+      }
+    },
+    {
+      "version": 1,
+      "network": "SN_SEPOLIA",
+      "chainId": "0x534e5f5345504f4c4941",
+      "kind": "account",
+      "index": 0,
+      "owner": {
+        "privateKey": "0x000f2523e4c7f75e9657680293ecf027b408c401e212e282b2aa75757cb2f2c3",
+        "publicKey": "0x021486451937f2fec2b4ed4667f359084210c8b1301a6843cf25d276422f1c0e"
+      },
+      "address": "0x035fc0aadb5c3ca36d3d023afc894b02b154f233eb6817e326e4ce7c18e3f5fa",
+      "deployment": {
+        "classHash": "0x00eb49f5299d144f0b2e434e483758fb6d7d8241632534d86b098047fe4e2b42",
+        "salt": "0x0",
+        "deployer": "0x0",
+        "constructorCalldata": [
+          "0x0",
+          "0x021486451937f2fec2b4ed4667f359084210c8b1301a6843cf25d276422f1c0e",
+          "0x1"
+        ]
+      },
+      "vault": {
+        "privateKey": "0x03af442e11aada5ab767248f8518512ffd83911e3540e7b48f944f3eb53221f4",
+        "publicKey": "0x071e361fe7360b27be1025a701260a0af0f9f87c6c911baa1ecd2b7e43b06750"
+      },
+      "viewing": {
+        "pool": "0x0000000000000000000000000000000000000000000000000000000000005678",
+        "privateKey": "0x00b7656b8ec75eb5be99ff03af3f6df661fc9101f0930338bcfa0f5ead0734e7"
+      }
+    },
+    {
+      "version": 1,
+      "network": "SN_MAIN",
+      "chainId": "0x534e5f4d41494e",
+      "kind": "account",
+      "index": 1,
+      "owner": {
+        "privateKey": "0x06eb6a08b9a647a292e22b170c67c5c22770e51ec99d38bfdd8e2c1da76d33a4",
+        "publicKey": "0x058366d0c4a1fbf02524722477bd271b2c571ca4cc5967727bdaf2a9353358d9"
+      },
+      "address": "0x0571e21d9745ed49ccacc42b101b2502b6d4e4e9dd89b4ec8cdd6cdc416708f6",
+      "deployment": {
+        "classHash": "0x00eb49f5299d144f0b2e434e483758fb6d7d8241632534d86b098047fe4e2b42",
+        "salt": "0x0",
+        "deployer": "0x0",
+        "constructorCalldata": [
+          "0x0",
+          "0x058366d0c4a1fbf02524722477bd271b2c571ca4cc5967727bdaf2a9353358d9",
+          "0x1"
+        ]
+      },
+      "vault": {
+        "privateKey": "0x03af442e11aada5ab767248f8518512ffd83911e3540e7b48f944f3eb53221f4",
+        "publicKey": "0x071e361fe7360b27be1025a701260a0af0f9f87c6c911baa1ecd2b7e43b06750"
+      }
+    },
+    {
+      "version": 1,
+      "network": "SN_MAIN",
+      "chainId": "0x534e5f4d41494e",
+      "kind": "agent",
+      "index": 0,
+      "owner": {
+        "privateKey": "0x007fb27719ba18b5b2e3ce269d83c59bd2965a6b30876602b11167e68cca8ebd",
+        "publicKey": "0x02f9151e9b53d63b152a80f7a25de6c73f9fd14201a835e013c49beb5348b729"
+      },
+      "address": "0x04f5ba893023999ad18229bf0e45f8fb706c19a6f3a9faaa78822760caadb85b",
+      "deployment": {
+        "classHash": "0x01b69b7a78c6868b27d649f47e539b86fd26899292a8ebe01bae0613c5fe4e3f",
+        "salt": "0x0",
+        "deployer": "0x0",
+        "constructorCalldata": [
+          "0x0",
+          "0x02f9151e9b53d63b152a80f7a25de6c73f9fd14201a835e013c49beb5348b729"
+        ]
+      },
+      "vault": {
+        "privateKey": "0x03af442e11aada5ab767248f8518512ffd83911e3540e7b48f944f3eb53221f4",
+        "publicKey": "0x071e361fe7360b27be1025a701260a0af0f9f87c6c911baa1ecd2b7e43b06750"
+      }
+    },
+    {
+      "version": 1,
+      "network": "SN_SEPOLIA",
+      "chainId": "0x534e5f5345504f4c4941",
+      "kind": "agent",
+      "index": 0,
+      "owner": {
+        "privateKey": "0x0671ed0a09cf580ef6bc89091456baaa55c3f2f76e6a016fc0c02a0a4be952f0",
+        "publicKey": "0x06b02b2dd83bda1b6db86b6680086883ba86bf33e68ae37c099c28f161cf3678"
+      },
+      "address": "0x040c93afd03e26dc0384cabdfe3151e411adf94d7a0855ad0c045583f5bf65a8",
+      "deployment": {
+        "classHash": "0x01b69b7a78c6868b27d649f47e539b86fd26899292a8ebe01bae0613c5fe4e3f",
+        "salt": "0x0",
+        "deployer": "0x0",
+        "constructorCalldata": [
+          "0x0",
+          "0x06b02b2dd83bda1b6db86b6680086883ba86bf33e68ae37c099c28f161cf3678"
+        ]
+      },
+      "vault": {
+        "privateKey": "0x03af442e11aada5ab767248f8518512ffd83911e3540e7b48f944f3eb53221f4",
+        "publicKey": "0x071e361fe7360b27be1025a701260a0af0f9f87c6c911baa1ecd2b7e43b06750"
+      }
+    }
+  ]
+}
